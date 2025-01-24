@@ -17,8 +17,8 @@ Insights generation
 
 Business Requriements 
 Design a dynamic Power BI dashboard that tracks key metrics—Sales, Profit, and Quantity—across four regions: Central, East, South, and West. The dashboard should allow users to filter by year and dynamically switch between the three metrics (Sales, Profit, and Quantity). Additionally, it should include a comparison with the previous year's (PY) sales for the selected year.
-![image](https://github.com/user-attachments/assets/58478d24-9f8e-4ce6-99b3-a3ec59b5391c)
-key profermance indicator
+
+key profermance indicator's Requriments
 Central Region:
 Display Sales, Profit, and Quantity as per the selected year filter.
 Allow dynamic selection between Sales, Profit, and Quantity.
@@ -29,7 +29,7 @@ Display Sales, Profit, and Quantity as per the selected year filter.
 Allow dynamic selection between Sales, Profit, and Quantity.
 Show Sales for the previous year based on the selected year.
 Create a bar sparkline for monthly data, including an average line for better trend analysis.
-![image](https://github.com/user-attachments/assets/2fc7c77a-49ab-4799-920d-9435e1c8045b)
+
 
 South Region:
 Display Sales, Profit, and Quantity as per the selected year filter.
@@ -40,7 +40,7 @@ West Region:
 Display Sales, Profit, and Quantity as per the selected year filter.
 Allow dynamic selection between Sales, Profit, and Quantity.
 Show Sales for the previous year based on the selected year.
-Create a bar sparkline for monthly data, including an average line for better trend analysis![image](https://github.com/user-attachments/assets/9299f338-2aaf-4ce2-9425-153fe85bba11)
+Create a bar sparkline for monthly data, including an average line for better trend analysis
  charts requriments
  Sales by State:
 Bubble Map: Display a bubble map to visualize sales distribution across different states. The size of each bubble should correspond to the sales volume, allowing users to quickly identify states with high or low sales.
@@ -56,5 +56,5 @@ YoY Profit: Year-over-Year Profit growth or decline
 CY Qty: Current Year Quantity
 PY Qty: Previous Year Quantity
 YoY Qty: Year-over-Year Quantity growth or decline
-![image](https://github.com/user-attachments/assets/574ce476-3a61-49ed-9c97-9e4c540f04ff)
+
 
